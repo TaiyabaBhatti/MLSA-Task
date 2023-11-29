@@ -28,7 +28,7 @@ const siteProps = {
   title: "Frontend developer",
   email: "tayyababhatti89@gmail.com",
   gitHub: "TaiyabaBhatti",
-  linkedIn: "tayyaba-bhatti",
+  linkedIn: "www.linkedin.com/in/tayyaba-bhatti-955a3725b",
 
 };
 
